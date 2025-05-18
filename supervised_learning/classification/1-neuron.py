@@ -55,3 +55,4 @@ class Neuron:
     # def A(self, value):
     #     """setter function"""
     #     self.__A = value
+    

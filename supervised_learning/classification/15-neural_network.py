@@ -131,3 +131,4 @@ class NeuralNetwork:
             plt.show()
 
         return self.evaluate(X, Y)
+    

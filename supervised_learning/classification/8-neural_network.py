@@ -25,3 +25,4 @@ class NeuralNetwork:
         self.W2 = np.random.normal(size=(1, nodes))
         self.b2 = 0
         self.A2 = 0
+        

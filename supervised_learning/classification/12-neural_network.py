@@ -77,3 +77,4 @@ class NeuralNetwork:
         predictions = np.where(self.__A2 >= 0.5, 1, 0)
         cost = self.cost(Y, self.__A2)
         return predictions, cost
+    

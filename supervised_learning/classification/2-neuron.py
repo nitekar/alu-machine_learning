@@ -68,3 +68,4 @@ class Neuron:
         self.__A = 1/(1 + np.exp(-weighted_sum))
 
         return self.__A
+    

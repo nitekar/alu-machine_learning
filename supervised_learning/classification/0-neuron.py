@@ -27,3 +27,4 @@ class Neuron:
 
         # A - activated output of the neuron(Prediction)
         self.A = 0
+        

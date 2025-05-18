@@ -92,3 +92,4 @@ class Neuron:
         accuracy = np.mean(predictions == Y)
         return predictions, cost
     
+    

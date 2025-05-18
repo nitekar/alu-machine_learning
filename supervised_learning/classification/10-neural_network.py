@@ -63,3 +63,4 @@ class NeuralNetwork:
         self.__A2 = self.sigmoid(Z2)
 
         return self.__A1, self.__A2
+    
